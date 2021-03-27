@@ -10,5 +10,9 @@ For RGB Datasets>>
 
 1. [ENHANCING THE RELIABILITY OF OUT-OF-DISTRIBUTION IMAGE DETECTION IN NEURAL NETWORKS](https://arxiv.org/pdf/1706.02690.pdf)
 
+
+For Grayscale Dataset>>
+1. [Out-of-distribution Detection in Classifiers via Generation](https://arxiv.org/pdf/1910.04241.pdf)
+
 CODE WILL COME SOON...
 
