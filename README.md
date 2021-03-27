@@ -6,6 +6,8 @@ Out-of-Distribution classification and detection
 
 Related Papers:
 
+For RGB Datasets>>
+
 1. [ENHANCING THE RELIABILITY OF OUT-OF-DISTRIBUTION IMAGE DETECTION IN NEURAL NETWORKS](https://arxiv.org/pdf/1706.02690.pdf)
 
 CODE WILL COME SOON...
